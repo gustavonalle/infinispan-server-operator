@@ -74,4 +74,6 @@ tags
 ### VisualStudioCode ###
 .vscode/*
 .history
+openshift.local.clusterup/*
+tmp/_output
 # End of https://www.gitignore.io/api/go,vim,emacs,visualstudiocode
